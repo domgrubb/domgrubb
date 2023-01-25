@@ -1,4 +1,11 @@
-### Hi there 👋
+## Aspiring software engineer with an academic background in physics and data science
+
+#### Currently I am finishing a software engineering bootcamp and looking for work.
+
+#### In my spare time I am studying Node.Js and Flask
+
+##### Reach me at: dom.grubb@gmail.com
+##### [My LinkedIn](https://www.linkedin.com/in/dominic-g-105409161/)
 
 <!--
 **domgrubb/domgrubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
