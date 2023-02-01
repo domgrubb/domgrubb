@@ -1,8 +1,8 @@
-## Aspiring software engineer with an academic background in physics and data science
+## Aspiring software engineer with an academic background in physics and data science.
 
 #### Currently I am finishing a software engineering bootcamp and looking for work.
 
-#### In my spare time I am studying Node.Js and Flask
+#### In my spare time I am studying Node.Js and MongoDB.
 
 ##### Reach me at: dom.grubb@gmail.com
 ##### [My LinkedIn](https://www.linkedin.com/in/dominic-g-105409161/)
