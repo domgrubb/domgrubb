@@ -1,4 +1,4 @@
-## Aspiring software engineer with an academic background in physics and data science.
+## Software engineer with an academic background in physics and data science.
 
 #### Recently finished a software engineering bootcamp with an average grade of 100%, now looking for work.
 
