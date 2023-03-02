@@ -2,7 +2,7 @@
 
 #### Recently finished a software engineering bootcamp with an average grade of 100%, now looking for work.
 
-#### In my spare time I am studying Flask and AWS.
+#### In my spare time I am studying Flask.
 
 ##### Reach me at: dom.grubb@gmail.com
 ##### [My LinkedIn](https://www.linkedin.com/in/dominic-g-105409161/)
