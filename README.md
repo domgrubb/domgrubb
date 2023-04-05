@@ -1,8 +1,8 @@
-## Software engineer with an academic background in physics and data science.
+## Data scientist with an academic background in physics and data science.
 
 #### Recently finished a software engineering bootcamp with an average grade of 100%, now looking for work.
 
-#### In my spare time I am studying Flask.
+#### In my spare time I am studying practicing data analysis.
 
 ##### Reach me at: dom.grubb@gmail.com
 ##### [My LinkedIn](https://www.linkedin.com/in/dominic-g-105409161/)
