@@ -1,8 +1,8 @@
-## Data scientist with an academic background in physics and data science.
+## Computer scientist with an academic background in physics and data science.
 
-#### Recently finished a software engineering bootcamp with an average grade of 100%, now looking for work.
+#### Recently finished a computer science masters degree with a distinction and average grade of 82%, now looking for work.
 
-#### In my spare time I am studying practicing data analysis.
+#### In my spare time I am studying data analysis.
 
 ##### Reach me at: dom.grubb@gmail.com
 ##### [My LinkedIn](https://www.linkedin.com/in/dominic-g-105409161/)
